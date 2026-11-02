@@ -5,7 +5,7 @@ st.title("Evaluación de un lote")
 st.sidebar.title("Act. Programación")
 st.sidebar.write(
     "Universidad Autónoma de Chihuahua - Facultad de Ciencias Químicas -"
-    " Brissa Aracely Carrasco Iglesias 3°L (395007)"
+    " Jose Ivan Rodriguez  3°L (388563)"
 )
 
 pH = st.number_input(
